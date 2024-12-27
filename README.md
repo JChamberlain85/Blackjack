@@ -61,5 +61,3 @@ This project is a simplified simulation of the popular Blackjack card game, impl
 
 ### 5. **Game Summary**
 - Upon exiting, the program displays a summary of the player’s performance, including total rounds played, hands won, and final balance.
-
----
