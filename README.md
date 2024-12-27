@@ -1,4 +1,4 @@
-#Blackjack
+# Blackjack
 
 ## Overview
 This project is a simplified simulation of the popular Blackjack card game, implemented in C++. The game features a single player competing against a computer dealer. It aims to provide an engaging programming exercise while emphasizing responsible gaming principles.
