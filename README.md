@@ -8,7 +8,7 @@ This project is a simplified simulation of the Blackjack card game, implemented 
 ## Features
 
 ### 1. **Starting the Game**
-- The player is prompted to enter their name, after which they receive a randomly generated starting balance (range: $12.00 to $7000.00, inclusive). The balance is displayed with two decimal places to represent cents.
+- The player is prompted to enter their name, after which they receive a randomly generated starting balance within the range of $12.00 to $7000.00.
 
 ### 2. **Game Setup**
 - A simulated deck of cards includes all standard card values and suits, but with infinite copies of each card.
